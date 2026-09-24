@@ -1,4 +1,4 @@
-const CACHE = 'rectas-v9';
+const CACHE = 'rectas-cr-v11';
 const ARCHIVOS = [
   './',
   './index.html'
